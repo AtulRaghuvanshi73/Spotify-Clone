@@ -13,7 +13,7 @@ This is a Spotify clone built with Next.js. It uses PostgreSQL as the main datab
 
 - Next.js: A React framework for building server-side rendered and static websites
 - PostgreSQL: A powerful open-source relational database management system
-- [Add any other technologies used in your project]
+
 
 ## Getting Started
 
